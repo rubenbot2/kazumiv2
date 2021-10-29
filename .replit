@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "npm i @adiwajshing/baileys@latest && npm start"
+run = "npm install && npm start"
