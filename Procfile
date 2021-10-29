@@ -1,1 +1,1 @@
-worker: apt install ffmpeg && npm i && npm start
+worker: npm install ffmpeg && npm i && npm start
