@@ -24,6 +24,8 @@ RUN npm install -g npm@7.20.5
 
 RUN npm install
 
+RUN npm start
+
 COPY . .
 
 EXPOSE 5000
